@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: thegokil
+Version: 2.0.0
+Summary: Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
+Home-page: https://github.com/thegokil
+Download-URL: https://github.com/thegokil/thegokil/releases/latest
+Author: Dan
+Author-email: dan@thegokil.org
+License: LGPLv3
+Project-URL: Tracker, https://github.com/thegokil/thegokil/issues
+Project-URL: Community, https://t.me/thegokil
+Project-URL: Source, https://github.com/thegokil/thegokil
+Project-URL: Documentation, https://docs.thegokil.org
+Keywords: telegram chat messenger mtproto api client library python
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: Implementation
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Internet
+Classifier: Topic :: Communications
+Classifier: Topic :: Communications :: Chat
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Requires-Python: ~=3.7
+Description-Content-Type: text/markdown
+License-File: COPYING
+License-File: COPYING.lesser
+License-File: NOTICE
+Requires-Dist: pyaes
+Requires-Dist: pysocks
+Requires-Dist: tgcrypto
+Requires-Dist: python-dotenv
+Requires-Dist: requests
+Requires-Dist: ffmpeg-python
+Requires-Dist: uvloop
+Requires-Dist: wget
+Requires-Dist: psutil
+Requires-Dist: pytz
+Requires-Dist: python-dateutil
+Requires-Dist: maling
+
+# Library For Mix-Userbot

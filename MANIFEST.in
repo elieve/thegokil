@@ -1,0 +1,11 @@
+## Include
+include README.md COPYING COPYING.lesser NOTICE requirements.txt
+recursive-include compiler *.py *.tl *.tsv *.txt
+recursive-include tests *.py
+
+## Exclude
+prune thegokil/errors/exceptions
+prune thegokil/raw/functions
+prune thegokil/raw/types
+prune thegokil/raw/base
+exclude thegokil/raw/all.py

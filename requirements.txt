@@ -1,0 +1,12 @@
+pyaes
+pysocks
+tgcrypto
+python-dotenv
+requests
+ffmpeg-python
+uvloop
+wget
+psutil
+pytz
+python-dateutil
+maling
